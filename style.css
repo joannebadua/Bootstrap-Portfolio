@@ -1,0 +1,24 @@
+.navbar-brand {
+    /* width: 
+    height:  */
+    background-color: #4AAAA5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+ 
+}
+
+#navbarSupportedContent {
+    float: right !important;
+    margin-left: 600px;
+}
+/* .container mt-5 { */
+    /* webkit-box-flex: 1;
+    ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem; */
+}
+
+.container-fluid {
+    width: 100%;
+}

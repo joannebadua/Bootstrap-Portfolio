@@ -62,3 +62,6 @@ body {
 .container-fluid {
     width: 100%;
 }
+.form-group {
+    width: 400px;
+}

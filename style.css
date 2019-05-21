@@ -1,6 +1,9 @@
 body {
     background-color: white;
 }
+.navbar navbar-expand-lg navbar-light bg-light {
+    
+}
 .navbar-brand {
     /* width: 
     height:  */
@@ -8,12 +11,17 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 30px;
     padding: 10px;
-    color: white;
+    color:red;
 }
+
+#navbarSupportedContent {
+    float: right !important;
+    margin-left: 600px;
+
 .aboutme {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 30px;
-    line-height: 49px;
+    font-size: 18px;
+    /* line-height: 49px; */
     color: #4aaaa5; 
     border-bottom: 3px solid #dddddd;
 }
@@ -33,15 +41,13 @@ body {
     max-height: 150px;
 }
 
-#navbarSupportedContent {
-    float: right !important;
-    margin-left: 600px;
+
 }
-/* .container mt-5 { */
+.container mt-5 { */
     /* webkit-box-flex: 1;
     ms-flex: 1 1 auto;
     flex: 1 1 auto;
-    padding: 1.25rem; */
+    padding: 1.25rem;
 }
 
 /* .profilepic {

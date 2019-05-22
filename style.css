@@ -27,6 +27,20 @@ body {
     color: #4aaaa5; 
     border-bottom: 3px solid #dddddd;
 
+.card-text {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+  }
+}
     /* deleted  */
 
 /* .container mt-5 { */
@@ -267,3 +281,6 @@ body {
     border: 0 none;
   }
   
+  /* #card-style{
+    margin-bottom:10px;
+  } */

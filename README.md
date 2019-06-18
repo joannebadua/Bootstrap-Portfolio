@@ -12,4 +12,4 @@ Search Engine Optimization and Accessibility features incorporated.
 * [Bootstrap framework](https://whatis.techtarget.com/definition/bootstrap)
 
 ## Author
-* **Joey Badua** - [Wireframe](https://github.com/joannebadua)
+* **Joey Badua** - [Bootstrap-Portfolio](https://github.com/joannebadua)
